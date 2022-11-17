@@ -1,3 +1,6 @@
+// copied from https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html
+// not a working example, need to look into it.
+
 // package basicPrograms;
 
 // public class JavaEnumExample{
